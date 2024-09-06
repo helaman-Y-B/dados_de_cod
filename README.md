@@ -1,7 +1,4 @@
-```markdown
 ## Desvendando o Mundo dos Call of Duty com um Click!
-
-**Título:** Desvendando o Mundo dos Call of Duty com um Click! 
 
 **Descrição:**
 
