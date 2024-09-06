@@ -41,6 +41,5 @@ Para entrar em contato, envie um email para: [helamashi@gmail.com]
 
 **Links:**
 
-Git hub Reposiório: https://github.com/helaman-Y-B/dados_de_cod
-Web site suportado por Vecel: https://codinfo.vercel.app/
-```
+* Git hub Reposiório: https://github.com/helaman-Y-B/dados_de_cod
+* Web site suportado por Vecel: https://codinfo.vercel.app/
